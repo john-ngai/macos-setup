@@ -1,14 +1,15 @@
 # Environment Setup for macOS
 
-This guide is intended to help users who are migrating from Windows to macOS get setup.
+This short guide is intended to help new macOS users quickly get setup and familiar with some of the key features.
 
 ## Common Keyboard Shortcuts
 
-- Many Windows shortcuts that combine `ctrl` + another key are similar in that they use `cmd` instead. For example, the shortcuts to copy and paste text are `cmd` + `c` and `cmd` + `v` respectively.
+- Many Windows shortcuts combining `ctrl` with other keys are the same, but with `cmd` being used instead. For example, the shortcuts for copying and pasting are `cmd` + `c` and `cmd` + `v` respectively.
 - Search for anything using [Spotlight](https://support.apple.com/en-ca/guide/mac-help/mchlp1008/mac): `cmd` + `space`.
 - Open a file: `cmd` + `down arrow`.
 - Rename a file: `enter`.
 - Delete a file: `cmd` + `backspace`.
+- Open the screenshot tool: `cmd` + `shift` + `5`
 - Switch between tabs: `cmd` + `tab`.
 - Logout/display the lock screen: `ctrl` + `cmd` + `q`.
 
@@ -18,7 +19,7 @@ For more information: [Apple. "Mac keyboard shortcuts".](https://support.apple.c
 
 The Finder is used to view, access, and organize almost everything on a Mac.
 
-To quickly open the Finder, use the shortcut `cmd` + `space` to open the Spotlight search and type "Finder".
+To quickly open the Finder, use the shortcut `cmd` + `space` to open the Spotlight Search and type "Finder".
 
 For more information: [Apple. "Mac User Guide: Use the Finder on Mac".](https://support.apple.com/en-ca/guide/mac-help/mchlp2605/mac)
 
@@ -46,4 +47,5 @@ However, it's not strictly required software development.
 
 ### Other Guides
 
-TBA
+- [Proper Honest Tech. "Mac Settings that ACTUALLY make your Mac Better". YouTube.](https://www.youtube.com/watch?v=d4A-VkPT1kY)
+- [Download and Setup Java](java-setup.md)
