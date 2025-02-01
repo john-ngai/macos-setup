@@ -35,7 +35,7 @@ macOS is a Unix-based operating system. Starting in 2019, the default Unix shell
 
 Whenever a new terminal session (i.e. window or tab) is started, various scripts can be loaded via Z shell configuration files. In most cases, these scripts should be added to the `.zshrc` file.
 
-To verify whether the `.zshrc` file exists, please review the guide on [How to Display the Current Git Branch from the Terminal](terminal-git-branch.md).
+To verify whether the `.zshrc` file exists, please review steps 1 and 2 from the guide on [How to Display the Current Git Branch from the Terminal](terminal-git-branch.md).
 
 ### Homebrew Package Manager
 
@@ -49,3 +49,4 @@ However, it's not strictly required software development.
 
 - [Proper Honest Tech. "Mac Settings that ACTUALLY make your Mac Better". YouTube.](https://www.youtube.com/watch?v=d4A-VkPT1kY)
 - [Download and Setup Java](java-setup.md)
+- [How to Display the Current Git Branch from the Terminal](terminal-git-branch.md)
