@@ -72,3 +72,9 @@ For some recommended packages, please review the [Suggested Homebrew Packages](h
 - [FromSergio. "Mac Settings That ACTUALLY Make A Difference". YouTube.](https://www.youtube.com/watch?v=Kft9Y33oc2I)
 - [Download and Setup Java](java-setup.md)
 - [How to Display the Current Git Branch from the Terminal](terminal-git-branch.md)
+
+## Other Tools
+
+- [iTerm2](https://iterm2.com/) - Terminal emulator as alternative to Apple's Terminal app
+- [Podman](https://podman.io/) - An open source Open Container Initiative (OCI)-compliant[2] container management tool
+- [The Unarchiver](https://theunarchiver.com/) - Open any archive in seconds
