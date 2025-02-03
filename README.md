@@ -47,6 +47,6 @@ However, it's not strictly required software development.
 
 ### Other Guides
 
-- [Proper Honest Tech. "Mac Settings that ACTUALLY make your Mac Better". YouTube.](https://www.youtube.com/watch?v=d4A-VkPT1kY)
+- [FromSergio. "Mac Settings That ACTUALLY Make A Difference". YouTube.](https://www.youtube.com/watch?v=Kft9Y33oc2I)
 - [Download and Setup Java](java-setup.md)
 - [How to Display the Current Git Branch from the Terminal](terminal-git-branch.md)
