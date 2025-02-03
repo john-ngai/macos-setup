@@ -37,15 +37,17 @@ Whenever a new terminal session (i.e. window or tab) is started, various scripts
 
 To verify whether the `.zshrc` file exists, please review steps 1 and 2 from the guide on [How to Display the Current Git Branch from the Terminal](terminal-git-branch.md).
 
+Finally, Apple provides some additional software and tooling for the command-line that isn't installed out-of-the-box. These are the Xcode command line tools. To download and install, run the command: `xcode-select --install`.
+
 ### Homebrew Package Manager
 
 https://brew.sh/
 
 Homebrew is a widely used package manager for installing and updating open-source packages and applications.
 
-However, it's not strictly required software development.
+For some recommended packages, please review the [Suggested Homebrew Packages](homebrew-suggestions.md).
 
-### Other Guides
+## Other Guides
 
 - [FromSergio. "Mac Settings That ACTUALLY Make A Difference". YouTube.](https://www.youtube.com/watch?v=Kft9Y33oc2I)
 - [Download and Setup Java](java-setup.md)
