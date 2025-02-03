@@ -31,13 +31,33 @@ The default command-line interface is called the Terminal.
 
 The Terminal can be opened by searching for it using Spotlight, or using the Finder to locate and open the application directly within `Applications/Utilities/Terminal`.
 
+#### Unix
+
 macOS is a Unix-based operating system. Starting in 2019, the default Unix shell for macOS is the Z shell.
 
 Whenever a new terminal session (i.e. window or tab) is started, various scripts can be loaded via Z shell configuration files. In most cases, these scripts should be added to the `.zshrc` file.
 
 To verify whether the `.zshrc` file exists, please review steps 1 and 2 from the guide on [How to Display the Current Git Branch from the Terminal](terminal-git-branch.md).
 
-Finally, Apple provides some additional software and tooling for the command-line that isn't installed out-of-the-box. These are the Xcode command line tools. To download and install, run the command: `xcode-select --install`.
+#### Xcode Command Line Tools
+
+Apple provides some additional software and tooling for the command-line that isn't installed out-of-the-box. These are the Xcode command line tools. To download and install, run the command: `xcode-select --install`.
+
+#### Support Files
+
+The files required to run all of the installed software and applications are stored within various support folders.
+
+To view the support files for macOS, use the command: `ls ~/Library/Application\ Support`
+
+To view the support file for Unix, use the commands:
+
+```sh
+ls ~/.config
+```
+
+```sh
+ls ~/.local
+```
 
 ### Homebrew Package Manager
 
